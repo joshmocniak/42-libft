@@ -6,7 +6,7 @@ Recreated 58 functions from the C Standard Library that operate on strings/memor
 ### Using the makefile to compile 42-libft
 
 Run the following commands:
-* To compile
+* To compile:
   `make`
 * To remove objects:
   `make clean`
